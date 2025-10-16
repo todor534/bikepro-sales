@@ -1,0 +1,147 @@
+{
+  "brand": {
+    "name": "BikePro Sales",
+    "accent": "#2E8B57"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Kickstart Your Cycling Journey with a Pro Bike Salesman",
+      "subheadline": "Get expert advice, personalized bike recommendations, and unbeatable deals. Start your ride with confidence today!",
+      "primaryCta": {
+        "label": "Book a Free Consultation",
+        "href": "/contact"
+      },
+      "image": {
+        "kind": "url",
+        "name": "bike-hero",
+        "url": "https://images.unsplash.com/photo-1518655048521-f130df041f66?auto=format&fit=crop&w=800&q=80"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Personalized Bike Recommendations",
+          "desc": "Get expert advice tailored to your needs, riding style, and budget to find your perfect bike."
+        },
+        {
+          "title": "Flexible Consultation Options",
+          "desc": "Choose from in-person or virtual consultations to fit your schedule and location."
+        },
+        {
+          "title": "Test Ride Arrangements",
+          "desc": "Experience bikes firsthand with organized test rides before making a purchase decision."
+        },
+        {
+          "title": "After-Sale Support",
+          "desc": "Receive ongoing support, maintenance tips, and guidance even after your purchase."
+        },
+        {
+          "title": "Wide Network Access",
+          "desc": "Benefit from my connections with top bike shops and brands for exclusive deals and selections."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah M.",
+          "quote": "The personalized bike recommendations were spot on. I found my perfect ride thanks to this service!"
+        },
+        {
+          "name": "James T.",
+          "quote": "Professional, knowledgeable, and friendly. Made buying a bike easy and enjoyable."
+        },
+        {
+          "name": "Linda K.",
+          "quote": "Great experience from start to finish. Highly recommend for anyone looking for a new bike."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Basic Tune-Up",
+          "price": "$49",
+          "period": "per bike",
+          "features": [
+            "Brake and gear adjustment",
+            "Tire inflation and inspection",
+            "Chain lubrication",
+            "Safety check"
+          ]
+        },
+        {
+          "name": "Premium Service",
+          "price": "$99",
+          "period": "per bike",
+          "features": [
+            "Everything in Basic Tune-Up",
+            "Full bike cleaning",
+            "Wheel truing",
+            "Drivetrain degreasing"
+          ]
+        },
+        {
+          "name": "Pro Maintenance",
+          "price": "$149",
+          "period": "per bike",
+          "features": [
+            "Everything in Premium Service",
+            "Complete overhaul",
+            "Component installation",
+            "Personalized maintenance report"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What types of bikes do you sell?",
+          "a": "I offer a wide range of bikes including road, mountain, hybrid, and electric bikes to suit all needs and preferences."
+        },
+        {
+          "q": "Do you provide bike fitting services?",
+          "a": "Yes, I provide personalized bike fitting to ensure you get the most comfortable and efficient ride possible."
+        },
+        {
+          "q": "Can I schedule a test ride?",
+          "a": "Absolutely! Contact me to book a test ride and experience the bike before making a decision."
+        },
+        {
+          "q": "Do you offer maintenance or repair services?",
+          "a": "Yes, I offer maintenance and repair services to keep your bike in top condition."
+        },
+        {
+          "q": "How can I contact you for a consultation?",
+          "a": "You can reach out via the contact form on my website or call me directly to schedule a free consultation."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Ready to find your perfect bike? Let's get started!",
+      "cta": {
+        "label": "Contact Me Today",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Start Your Bike Buying Journey Today!",
+      "placeholder": "Enter your email to get a free consultation",
+      "button": "Get Started"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Your Bike Sales Practice. All rights reserved. Connect with us for your next ride!"
+    }
+  ]
+}
